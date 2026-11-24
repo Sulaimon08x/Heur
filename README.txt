@@ -1,0 +1,1 @@
+Hoxton V9 PWA prototype. Deploy all files in this folder to an HTTPS static host. On iPhone open the deployed URL in Safari, Share > Add to Home Screen > Add. Offline cache requires first successful online load. Direct checkout is a demo. Obtain image reuse permission and verify prices/hours before public release. Not tested on physical iOS.
